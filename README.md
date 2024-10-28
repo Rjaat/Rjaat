@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rajesh Choudhary</h1>
-<h3 align="center">AI Research Engineer | Machine Learning</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rajesh-choudharyy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rajgadhwal99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -7,47 +6,116 @@
   <img src="https://komarev.com/ghpvc/?username=rjaat&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
-## 🚀 About Me
+<div align="center">
+  
+### *Transforming Ideas into Intelligent Solutions*
 
-Passionate AI Research Engineer specializing in Deep Learning, Computer Vision, Natural Language Processing, and Large Language Models. Experienced in developing end-to-end AI solutions from research to production deployment. Currently focused on advancing state-of-the-art models in computer vision and large language models.
+</div>
 
-### 🔭 Current Focus
-- Implementing advanced computer vision architectures (CNNs, Transformers, Detection Models)
-- Researching and developing state-of-the-art LLM applications
-- Building scalable deep learning pipelines for production environments
-- Developing RAG applications and fine-tuning LLMs
+---
 
-### 💼 Core Expertise
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Research-blue?style=for-the-badge" alt="AI Research"/>
+  <img src="https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/LLM-Expert-yellow?style=for-the-badge" alt="LLM Expert"/>
+</div>
 
-#### Computer Vision
-- Object Detection and Segmentation
-- Image Classification and Recognition
-- Video Analysis and Processing
-- Multi-modal Vision-Language Models
-- Pose Estimation and Tracking
+<br>
 
-#### Large Language Models & NLP
-- LLM Fine-tuning and Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Custom LLM Application Development
-- Token-level Optimization
-- Multi-modal LLM Integration
+> Passionate AI Research Engineer specializing in Deep Learning, Computer Vision, Natural Language Processing, and Large Language Models. Experienced in developing end-to-end AI solutions from research to production deployment. Currently focused on advancing state-of-the-art models in computer vision and large language models.
 
-#### Deep Learning
-- Neural Architecture Design
-- Transfer Learning and Fine-tuning
-- Model Optimization and Compression
-- Attention Mechanisms
-- Generative Models (GANs, Diffusion Models)
+## 🎯 Current Focus
 
-#### MLOps & Infrastructure
-- Distributed Training on GPU Clusters
-- Model Deployment and Serving
-- Pipeline Automation
-- Performance Optimization
-- Cloud Infrastructure (AWS, GCP)
+<div align="left">
+  <table>
+    <tr>
+      <td>🔮</td>
+      <td>Implementing advanced computer vision architectures (CNNs, Transformers, Detection Models)</td>
+    </tr>
+    <tr>
+      <td>🤖</td>
+      <td>Researching and developing state-of-the-art LLM applications</td>
+    </tr>
+    <tr>
+      <td>⚡</td>
+      <td>Building scalable deep learning pipelines for production environments</td>
+    </tr>
+    <tr>
+      <td>🔍</td>
+      <td>Developing RAG applications and fine-tuning LLMs</td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Core Expertise
+
+<details open>
+<summary><b>🧠 Computer Vision</b></summary>
+<br>
+<div align="left">
+  <table>
+    <tr><td>• Object Detection and Segmentation</td></tr>
+    <tr><td>• Image Classification and Recognition</td></tr>
+    <tr><td>• Video Analysis and Processing</td></tr>
+    <tr><td>• Multi-modal Vision-Language Models</td></tr>
+    <tr><td>• Pose Estimation and Tracking</td></tr>
+  </table>
+</div>
+</details>
+
+<details open>
+<summary><b>🤖 Large Language Models & NLP</b></summary>
+<br>
+<div align="left">
+  <table>
+    <tr><td>• LLM Fine-tuning and Prompt Engineering</td></tr>
+    <tr><td>• Retrieval-Augmented Generation (RAG)</td></tr>
+    <tr><td>• Custom LLM Application Development</td></tr>
+    <tr><td>• Token-level Optimization</td></tr>
+    <tr><td>• Multi-modal LLM Integration</td></tr>
+  </table>
+</div>
+</details>
+
+<details open>
+<summary><b>📊 Deep Learning</b></summary>
+<br>
+<div align="left">
+  <table>
+    <tr><td>• Neural Architecture Design</td></tr>
+    <tr><td>• Transfer Learning and Fine-tuning</td></tr>
+    <tr><td>• Model Optimization and Compression</td></tr>
+    <tr><td>• Attention Mechanisms</td></tr>
+    <tr><td>• Generative Models (GANs, Diffusion Models)</td></tr>
+  </table>
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ MLOps & Infrastructure</b></summary>
+<br>
+<div align="left">
+  <table>
+    <tr><td>• Distributed Training on GPU Clusters</td></tr>
+    <tr><td>• Model Deployment and Serving</td></tr>
+    <tr><td>• Pipeline Automation</td></tr>
+    <tr><td>• Performance Optimization</td></tr>
+    <tr><td>• Cloud Infrastructure (AWS, GCP)</td></tr>
+  </table>
+</div>
+</details>
 
 ## 🛠️ Technical Stack
+
+<div align="center">
+
+### 🧠 Core Technologies
+![AI](https://img.shields.io/badge/Artificial_Intelligence-569A31?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-025196?style=for-the-badge&logo=machine-learning&logoColor=white)
+![DL](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=deep-learning&logoColor=white)
+
+---
 
 ### Deep Learning & CV Frameworks
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
@@ -84,6 +152,8 @@ Passionate AI Research Engineer specializing in Deep Learning, Computer Vision, 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)](#)
+
+</div>
 
 ## 📈 Research Interests
 - Large Language Models & RAG
