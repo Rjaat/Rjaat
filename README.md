@@ -1,86 +1,118 @@
-<h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">Artificial Intelligence Research Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjaat&label=Profile%20views&color=0e75b6&style=flat" alt="rjaat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjaat" alt="rjaat" /></a> </p>
-
-- 🌱 I’m currently learning about **LLMs**
-
-- 👯 Open to collaborate on **AI Projects**
-
-- 📫 How to reach me **rajgadhwal99@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rajesh-choudharyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-choudharyy" height="30" width="40" /></a>
-<a href="https://instagram.com/rajesh.jat__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajesh.jaat__" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Rajesh Choudhary</h1>
+<h3 align="center">AI Research Engineer | Machine Learning</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajesh-choudharyy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rajgadhwal99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/rajesh.jat__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rjaat&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages/Frameworks and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.r-project.org/" taraget="_blank" rel="noreferrer">
-    <img src="https://github.com/Rjaat/Rjaat/assets/58986628/2c28ceca-2d68-4fd5-b15b-9ad48e79e455" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Rjaat/Rjaat/assets/58986628/d6191f64-1d94-406e-b2bf-f352a448cf73" alt="Sql" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Rjaat/Rjaat/assets/58986628/02d244b3-4615-465c-a20d-e37c7863ae45" alt="Pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Rjaat/Rjaat/assets/58986628/4b89756a-757a-4e14-9662-15e199b333a3" alt="aws" width="50" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Rjaat/Rjaat/assets/58986628/5df12e8d-ba7e-48de-874a-9590bb9568b5" alt="sql-server" width="50" height="40"/> 
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Rjaat/Rjaat/assets/58986628/92607010-ff2f-43fb-8b4f-9d48c786e59b" alt="hadoop" height="40" /> 
-  </a>
+## 🚀 About Me
 
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  </p>
+Passionate AI Research Engineer specializing in Deep Learning, Computer Vision, Natural Language Processing, and Large Language Models. Experienced in developing end-to-end AI solutions from research to production deployment. Currently focused on advancing state-of-the-art models in computer vision and large language models.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjaat&show_icons=true&locale=en&layout=compact" alt="rjaat" /></p>
+### 🔭 Current Focus
+- Implementing advanced computer vision architectures (CNNs, Transformers, Detection Models)
+- Researching and developing state-of-the-art LLM applications
+- Building scalable deep learning pipelines for production environments
+- Developing RAG applications and fine-tuning LLMs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjaat&show_icons=true&locale=en" alt="rjaat" /></p>
+### 💼 Core Expertise
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjaat&" alt="rjaat" /></p>
+#### Computer Vision
+- Object Detection and Segmentation
+- Image Classification and Recognition
+- Video Analysis and Processing
+- Multi-modal Vision-Language Models
+- Pose Estimation and Tracking
+
+#### Large Language Models & NLP
+- LLM Fine-tuning and Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Custom LLM Application Development
+- Token-level Optimization
+- Multi-modal LLM Integration
+
+#### Deep Learning
+- Neural Architecture Design
+- Transfer Learning and Fine-tuning
+- Model Optimization and Compression
+- Attention Mechanisms
+- Generative Models (GANs, Diffusion Models)
+
+#### MLOps & Infrastructure
+- Distributed Training on GPU Clusters
+- Model Deployment and Serving
+- Pipeline Automation
+- Performance Optimization
+- Cloud Infrastructure (AWS, GCP)
+
+## 🛠️ Technical Stack
+
+### Deep Learning & CV Frameworks
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](#)
+
+### LLM & NLP Frameworks
+[![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white)](#)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llama&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)](#)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](#)
+
+### AI/ML Libraries
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)](#)
+
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+
+### Cloud & Infrastructure
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+
+### Data Infrastructure
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)](#)
+
+## 📈 Research Interests
+- Large Language Models & RAG
+- Multi-modal Learning
+- Self-supervised Learning
+- Neural Architecture Search
+- Efficient Model Training
+- Vision Transformers
+- 3D Computer Vision
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjaat&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjaat&theme=dark)
+
+</div>
+
+## 🤝 Let's Connect!
+
+- 💼 Open to collaborating on **innovative Computer Vision, LLM, and Deep Learning projects**
+- 🔍 Interested in research partnerships and technical discussions
+- 📫 Reach me at: **rajgadhwal99@gmail.com**
+- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/rajesh-choudharyy/) or [Instagram](https://instagram.com/rajesh.jat__)
+
+---
+
+<div align="center">
+  <i>Building the future of AI, one model at a time!</i>
+</div>
