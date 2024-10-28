@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/AI-Research-blue?style=for-the-badge" alt="AI Research"/>
   <img src="https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/LLM-Expert-yellow?style=for-the-badge" alt="LLM Expert"/>
+  <img src="https://img.shields.io/badge/LLM-Expert-yellow?style=for-the-badge" alt="LLM Finetuning"/>
 </div>
 
 <br>
